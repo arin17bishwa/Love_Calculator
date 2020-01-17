@@ -5,6 +5,6 @@ The current code has made use some Python modules like:
 1)xlrd(to read data from spreadsheets)
 2)tabula-py(to read tabulated data from PDF documents)
 
-
+Currently working to modify the program to read data directly from CSV files,thus eliminating the use of 'xlrd' module,and using csv module instead which is built-in in Python.
 
 Detailed method of calculation can be found from this link: https://www.youtube.com/watch?v=oFsLVG7EAZ4
